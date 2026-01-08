@@ -84,8 +84,7 @@ Feel free to file issues, fork, and create pull requests! All contributors and i
 
 ## License
 
-MIT License (see [LICENSE](LICENSE))
-
+Build User License (BUL)(see [BUILD-USER-LICENSE](LICENSE))
 ---
 
 ### Credits
