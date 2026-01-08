@@ -84,7 +84,7 @@ Feel free to file issues, fork, and create pull requests! All contributors and i
 
 ## License
 
-Build User License (BUL)(see [BUILD-USER-LICENSE](BUILD-USER-LICENSE.txt))
+Build User License (BUL)(see [BUILD-USER-LICENSE](BUILD-USER-LICENSE.md))
 ---
 
 ### Credits
