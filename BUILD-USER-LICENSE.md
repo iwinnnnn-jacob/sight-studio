@@ -1,4 +1,4 @@
-Build User License (BUL)
+# Build User License (BUL)
 
 Copyright (c) 2026 Sight Studio contributors
 
