@@ -7,11 +7,11 @@ of this software and associated documentation files (the "Software"), to use, mo
 merge, publish, distribute, and sublicense the Software for any purpose, with or without
 modification, provided that the following conditions are met:
 
-1. **Attribution**  
+### 1. **Attribution**  
    The above copyright notice, this Build User License, and a notice of significant modifications
    must be included in all copies or substantial portions of the Software.
 
-2. **Source Disclosure on Distribution**  
+### 2. **Source Disclosure on Distribution**  
    If the User distributes the Software, modified or unmodified, in executable or object form,
    the User must make the source code of the distributed version, including modifications, 
    available under this License at no charge.
